@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\C#\Aula6VS\Aula6VS\obj\Debug\net5.0\Aula6VS.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\Aula6VS\Aula6VS\obj\Debug\net5.0\Aula6VS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\Aula6VS\Aula6VS\obj\Debug\net5.0\Aula6VS.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\Aula6VS\Aula6VS\obj\Debug\net5.0\Aula6VS.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\Aula6VS\Aula6VS\obj\Debug\net5.0\Aula6VS.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Aula6VS\Aula6VS\bin\Debug\net5.0\Aula6VS.exe
+C:\Users\User\Desktop\C#\Aula6VS\Aula6VS\bin\Debug\net5.0\Aula6VS.deps.json
+C:\Users\User\Desktop\C#\Aula6VS\Aula6VS\bin\Debug\net5.0\Aula6VS.runtimeconfig.json
+C:\Users\User\Desktop\C#\Aula6VS\Aula6VS\bin\Debug\net5.0\Aula6VS.runtimeconfig.dev.json
+C:\Users\User\Desktop\C#\Aula6VS\Aula6VS\bin\Debug\net5.0\Aula6VS.dll
+C:\Users\User\Desktop\C#\Aula6VS\Aula6VS\bin\Debug\net5.0\Aula6VS.pdb
+C:\Users\User\Desktop\C#\Aula6VS\Aula6VS\obj\Debug\net5.0\Aula6VS.dll
+C:\Users\User\Desktop\C#\Aula6VS\Aula6VS\obj\Debug\net5.0\refint\Aula6VS.dll
+C:\Users\User\Desktop\C#\Aula6VS\Aula6VS\obj\Debug\net5.0\Aula6VS.pdb
+C:\Users\User\Desktop\C#\Aula6VS\Aula6VS\obj\Debug\net5.0\Aula6VS.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\Aula6VS\Aula6VS\obj\Debug\net5.0\ref\Aula6VS.dll
