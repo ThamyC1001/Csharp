@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\C#\Aula7VS\Aula7VS\bin\Debug\net5.0\Aula7VS.exe
+C:\Users\User\Desktop\C#\Aula7VS\Aula7VS\bin\Debug\net5.0\Aula7VS.deps.json
+C:\Users\User\Desktop\C#\Aula7VS\Aula7VS\bin\Debug\net5.0\Aula7VS.runtimeconfig.json
+C:\Users\User\Desktop\C#\Aula7VS\Aula7VS\bin\Debug\net5.0\Aula7VS.runtimeconfig.dev.json
+C:\Users\User\Desktop\C#\Aula7VS\Aula7VS\bin\Debug\net5.0\Aula7VS.dll
+C:\Users\User\Desktop\C#\Aula7VS\Aula7VS\bin\Debug\net5.0\Aula7VS.pdb
+C:\Users\User\Desktop\C#\Aula7VS\Aula7VS\obj\Debug\net5.0\Aula7VS.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\Aula7VS\Aula7VS\obj\Debug\net5.0\Aula7VS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\Aula7VS\Aula7VS\obj\Debug\net5.0\Aula7VS.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\Aula7VS\Aula7VS\obj\Debug\net5.0\Aula7VS.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\Aula7VS\Aula7VS\obj\Debug\net5.0\Aula7VS.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Aula7VS\Aula7VS\obj\Debug\net5.0\Aula7VS.dll
+C:\Users\User\Desktop\C#\Aula7VS\Aula7VS\obj\Debug\net5.0\refint\Aula7VS.dll
+C:\Users\User\Desktop\C#\Aula7VS\Aula7VS\obj\Debug\net5.0\Aula7VS.pdb
+C:\Users\User\Desktop\C#\Aula7VS\Aula7VS\obj\Debug\net5.0\Aula7VS.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\Aula7VS\Aula7VS\obj\Debug\net5.0\ref\Aula7VS.dll
