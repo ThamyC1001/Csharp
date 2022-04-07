@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\C#\ImcIfElse\ImcIfElse\bin\Debug\net5.0\ImcIfElse.exe
+C:\Users\User\Desktop\C#\ImcIfElse\ImcIfElse\bin\Debug\net5.0\ImcIfElse.deps.json
+C:\Users\User\Desktop\C#\ImcIfElse\ImcIfElse\bin\Debug\net5.0\ImcIfElse.runtimeconfig.json
+C:\Users\User\Desktop\C#\ImcIfElse\ImcIfElse\bin\Debug\net5.0\ImcIfElse.runtimeconfig.dev.json
+C:\Users\User\Desktop\C#\ImcIfElse\ImcIfElse\bin\Debug\net5.0\ImcIfElse.dll
+C:\Users\User\Desktop\C#\ImcIfElse\ImcIfElse\bin\Debug\net5.0\ImcIfElse.pdb
+C:\Users\User\Desktop\C#\ImcIfElse\ImcIfElse\obj\Debug\net5.0\ImcIfElse.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\ImcIfElse\ImcIfElse\obj\Debug\net5.0\ImcIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\ImcIfElse\ImcIfElse\obj\Debug\net5.0\ImcIfElse.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\ImcIfElse\ImcIfElse\obj\Debug\net5.0\ImcIfElse.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\ImcIfElse\ImcIfElse\obj\Debug\net5.0\ImcIfElse.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\ImcIfElse\ImcIfElse\obj\Debug\net5.0\ImcIfElse.dll
+C:\Users\User\Desktop\C#\ImcIfElse\ImcIfElse\obj\Debug\net5.0\refint\ImcIfElse.dll
+C:\Users\User\Desktop\C#\ImcIfElse\ImcIfElse\obj\Debug\net5.0\ImcIfElse.pdb
+C:\Users\User\Desktop\C#\ImcIfElse\ImcIfElse\obj\Debug\net5.0\ImcIfElse.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\ImcIfElse\ImcIfElse\obj\Debug\net5.0\ref\ImcIfElse.dll
